@@ -1,0 +1,1 @@
+*.xlsx *.xls !exemplo_cbos.xlsx backup/ *.png *.log .env __pycache__/
